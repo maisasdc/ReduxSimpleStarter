@@ -1,5 +1,7 @@
 # ReduxSimpleStarter
 
+BOOK LIST application. The focus of this application was to develop a book list  (React and Redux using concepts of containers and components) 
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
@@ -22,5 +24,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 ```
 > npm install
 > npm start
-```
-Book List application
+`
